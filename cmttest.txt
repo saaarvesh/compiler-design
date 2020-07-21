@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int void()
+{
+  //1st comment  
+  int a;  //2nd comment
+  printf("helllo!!!");
+  /* multiline comment
+     is here */
+  
+  
+}
